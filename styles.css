@@ -232,8 +232,9 @@ img{
 }
 
 .home-image {
-      width: 300px;
-      margin-bottom: 4em;
+  width: 300px;
+margin-bottom: 8em;
+margin-left: -3em;
       border-radius: .5rem;
 }
 
